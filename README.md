@@ -3,6 +3,8 @@
 </div>
 
 # Zack
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FR-HNF-SANDBOX%2Fzack.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FR-HNF-SANDBOX%2Fzack?ref=badge_shield)
+
 One-click Chrome extension to send and log web pages to Slack. Easily keep a browsable, chronological history of important links right in your Slack channels.
 
 ## Development
@@ -20,3 +22,7 @@ This extension has no automated tests. Always manually validate changes by:
 - Checking browser console for JavaScript errors
 
 See `.github/copilot-instructions.md` for complete development guidelines.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FR-HNF-SANDBOX%2Fzack.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FR-HNF-SANDBOX%2Fzack?ref=badge_large)
